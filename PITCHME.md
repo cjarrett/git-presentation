@@ -82,6 +82,21 @@ git cherry-pick
 ![Github flow](assets/github-flow.png)
 
 ---
+@title[Git lifecycle]
+### Git lifecycle
+![Git lifecycle](assets/git-lifecycle.png)
+
+---
+@title[Git local operations]
+### Git local operations
+![Git local operations](assets/git-localoperations.png)
+
+---
+@title[Git remote operations]
+### Git remote operations
+![Git remote operations](assets/git-remoteoperations.png)
+
+---
 @title[DEMO]
 ### DEMO
 
@@ -95,21 +110,21 @@ git cherry-pick
 ### Questions?
 
 ---
-#### DO
+### DO
 
-* DO keep master in working order
-* DO pull in changes
-* DO tag releases
-* DO push feature branches for discussion
-* DO learn when to use rebase (HINT: interactive merge conflicts and clean history)
+####* DO keep master in working order
+####* DO pull in changes
+####* DO tag releases
+####* DO push feature branches for discussion
+####* DO learn when to use rebase (HINT: interactive merge conflicts and clean history)
 
-#### DON’T
+### DON’T
 
-* DON'T merge in broken code.
-* DON'T commit onto master directly.
-* DON'T hotfix onto master! Use a feature branch.
-* DON'T rebase master.
-* DON'T merge with conflicts. Handle conflicts upon rebasing.
+####* DON'T merge in broken code.
+####* DON'T commit onto master directly.
+####* DON'T hotfix onto master! Use a feature branch.
+####* DON'T rebase master.
+####* DON'T merge with conflicts. Handle conflicts upon rebasing.
 
 ---
 ### Resources
