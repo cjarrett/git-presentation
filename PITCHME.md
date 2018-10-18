@@ -73,15 +73,6 @@ git cherry-pick
 ![Subcommands](assets/2kdbvg.jpg)
 
 ---
-### Github Flow
-
-![Press Down Key](assets/down-arrow.png)
-
-+++
-@title[Github Flow]
-![Github flow](assets/github-flow.png)
-
----
 @title[Git lifecycle]
 ### Git lifecycle
 ![Git lifecycle](assets/git-lifecycle.png)
@@ -97,6 +88,15 @@ git cherry-pick
 ![Git remote operations](assets/git-remoteoperations.png)
 
 ---
+### Github Flow
+
+![Press Down Key](assets/down-arrow.png)
+
++++
+@title[Github Flow]
+![Github flow](assets/github-flow.png)
+
+---
 @title[DEMO]
 ### DEMO
 
@@ -110,7 +110,7 @@ git cherry-pick
 ### Questions?
 
 ---
-### DO
+#### DO
 
   * DO keep master in working order
   * DO pull in changes
@@ -118,7 +118,8 @@ git cherry-pick
   * DO push feature branches for discussion
   * DO learn when to use rebase (HINT: interactive merge conflicts and clean history)
 
-### DON’T
+---
+#### DON’T
 
   * DON'T merge in broken code.
   * DON'T commit onto master directly.
