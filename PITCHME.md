@@ -112,19 +112,19 @@ git cherry-pick
 ---
 ### DO
 
-####* DO keep master in working order
-####* DO pull in changes
-####* DO tag releases
-####* DO push feature branches for discussion
-####* DO learn when to use rebase (HINT: interactive merge conflicts and clean history)
+  * DO keep master in working order
+  * DO pull in changes
+  * DO tag releases
+  * DO push feature branches for discussion
+  * DO learn when to use rebase (HINT: interactive merge conflicts and clean history)
 
 ### DON’T
 
-####* DON'T merge in broken code.
-####* DON'T commit onto master directly.
-####* DON'T hotfix onto master! Use a feature branch.
-####* DON'T rebase master.
-####* DON'T merge with conflicts. Handle conflicts upon rebasing.
+  * DON'T merge in broken code.
+  * DON'T commit onto master directly.
+  * DON'T hotfix onto master! Use a feature branch.
+  * DON'T rebase master.
+  * DON'T merge with conflicts. Handle conflicts upon rebasing.
 
 ---
 ### Resources
