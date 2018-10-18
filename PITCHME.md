@@ -1,5 +1,5 @@
 @title[git]
-# git
+![Git logo](assets/git-logo.png)
 
 ---
 @title[What is git?]
