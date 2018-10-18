@@ -68,6 +68,11 @@ git cherry-pick
 #### Everything in git is a file.
 
 ---
+@title[Subcommands]
+### Subcommands
+![Subcommands](assets/2kdbvg.jpg)
+
+---
 ### Github Flow
 
 ![Press Down Key](assets/down-arrow.png)
@@ -77,18 +82,28 @@ git cherry-pick
 ![Github flow](assets/github-flow.png)
 
 ---
-@title[Questions?]
+@title[DEMO]
+### DEMO
 
 ---
-### DO
+@title[A Word About Rebase]
+### A Word About Rebase
+![Rebase](assets/2kd978.jpg)
+
+---
+@title[Questions?]
+### Questions?
+
+---
+#### DO
 
 * DO keep master in working order
 * DO pull in changes
 * DO tag releases
 * DO push feature branches for discussion
-* Do learn when to use rebase (HINT: interactive merge conflicts and clean history)
+* DO learn when to use rebase (HINT: interactive merge conflicts and clean history)
 
-### DON’T
+#### DON’T
 
 * DON'T merge in broken code.
 * DON'T commit onto master directly.
